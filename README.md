@@ -1,5 +1,5 @@
 # Encuesta
-Encuesta Api
+Encuesta Api implementada bajo la arquitectura hexagonal
 ---------------
 - Se utiliza como motor de base de datos mysql.
 - Se agrega base de datos para que sea importada, en la tabla pregunta tiene 
